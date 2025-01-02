@@ -1,7 +1,7 @@
 # ChatGPT 中文版：国内访问指南（支持GPT-4，无需翻墙）
 
 > 更新时间：2025年1月3日
-> 作者：chatgpt-mirror-zh  
+> 作者：chatgpt-mirror-zh 
 
 **在国内轻松使用 ChatGPT 中文版，无需翻墙，支持 GPT-4 及更多功能！**
 
